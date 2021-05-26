@@ -1,1 +1,2 @@
-# virtual-per-3
+# New-Project-36
+A functioning virtual pet.
